@@ -1,8 +1,19 @@
-th, td {
-    padding: 15px;
-    text-align: left;
-  }
+body{
+  text-align: center;
+}
 
-  input{
-      margin: 10px;
-  }
+th, td {
+  padding: 20px;
+  width:10%;
+}
+input{
+  margin: 10px;
+}
+
+.new{
+  font-family: sans-serif;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  background-color: blue;
+}
